@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AngelesGuerreros/static/css/main.bab0b925.chunk.css",
-    "main.js": "/AngelesGuerreros/static/js/main.65b1a1d3.chunk.js",
-    "main.js.map": "/AngelesGuerreros/static/js/main.65b1a1d3.chunk.js.map",
+    "main.js": "/AngelesGuerreros/static/js/main.b61fbd46.chunk.js",
+    "main.js.map": "/AngelesGuerreros/static/js/main.b61fbd46.chunk.js.map",
     "runtime-main.js": "/AngelesGuerreros/static/js/runtime-main.95d423ac.js",
     "runtime-main.js.map": "/AngelesGuerreros/static/js/runtime-main.95d423ac.js.map",
     "static/js/2.a25c794a.chunk.js": "/AngelesGuerreros/static/js/2.a25c794a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.95d423ac.js",
     "static/js/2.a25c794a.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.65b1a1d3.chunk.js"
+    "static/js/main.b61fbd46.chunk.js"
   ]
 }
