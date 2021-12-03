@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"Angeles Guerreros",
+    "description":"Somos un grupo de personas comprometidos con el mundo, tenemos una vision que nos lleva a hacer cosas irracionales",
+    "image":"ag.jpg",
+    "bio":"esta es nuestra biografia",
+    "contactmessage":"Aqui es donde puedes escribirnos un mensaje y nosotros nos pondremos en contacto contigo",
+    "email": "angelesguerreros@gmail.com",
+    "phone": "783-128-0217",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://www.facebook.com/AGTUXPAN/",
+    "address":{
+      "street":"esta es la calle",
+      "city":"Tuxpan",
+      "state":"Veracruz",
+      "zip": "92875"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Aqui viene una descripccion",
+    "education":[
+      {
+        "school":"Texto descriptivo",
+        "degree":"subtitulo",
+        "graduated":"abril 2021",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Texto descriptivo",
+        "degree":"subtitulo",
+        "graduated":"Marzo 2021",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Texto descriptivo",
+        "title":"subtitulo",
+        "years":"Marzo 2021 - Presente",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Titulo Descriptivo",
+        "title":"subtitulo",
+        "years":"Marzo 2021 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"COMPROMISO 1",
+        "level":"60%"
+      },
+      {
+        "name":"COMPROMISO 2",
+        "level":"55%"
+      },
+      {
+        "name":"COMPROMISO 3",
+        "level":"50%"
+      },
+      {
+        "name":"COMPROMISO 4",
+        "level":"90%"
+      },
+      {
+        "name":"COMPROMISO 5",
+        "level":"80%"
+      },
+      {
+        "name":"COMPROMISO 6",
+        "level":"50%"
+      },
+      {
+        "name":"COMPROMISO 7",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"TITULO 1",
+        "category":"Descripcion del proyecto",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"TITULO 2",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"TITULO 3",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"TITULO 4",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"TITULO 5",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"TITULO 6",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"TITULO 7",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"TITULO 8",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"TITULO 9",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"TITULO 10",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"TITULO 11",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"TITULO 12",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AngelesGuerreros/static/css/main.bab0b925.chunk.css",
+    "main.js": "/AngelesGuerreros/static/js/main.65b1a1d3.chunk.js",
+    "main.js.map": "/AngelesGuerreros/static/js/main.65b1a1d3.chunk.js.map",
+    "runtime-main.js": "/AngelesGuerreros/static/js/runtime-main.95d423ac.js",
+    "runtime-main.js.map": "/AngelesGuerreros/static/js/runtime-main.95d423ac.js.map",
+    "static/js/2.a25c794a.chunk.js": "/AngelesGuerreros/static/js/2.a25c794a.chunk.js",
+    "static/js/2.a25c794a.chunk.js.map": "/AngelesGuerreros/static/js/2.a25c794a.chunk.js.map",
+    "static/js/3.37192441.chunk.js": "/AngelesGuerreros/static/js/3.37192441.chunk.js",
+    "static/js/3.37192441.chunk.js.map": "/AngelesGuerreros/static/js/3.37192441.chunk.js.map",
+    "index.html": "/AngelesGuerreros/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/AngelesGuerreros/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.a25c794a.chunk.js.LICENSE.txt": "/AngelesGuerreros/static/js/2.a25c794a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95d423ac.js",
+    "static/js/2.a25c794a.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.65b1a1d3.chunk.js"
+  ]
+}
